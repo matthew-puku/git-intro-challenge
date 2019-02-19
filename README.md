@@ -17,8 +17,8 @@ GitHub is one of the most popular places to store git repositories. While Git is
 You can refer to the  [slides](https://docs.google.com/presentation/d/1V56BTICBn1_nL9O3yGOJfgOg-gnHDwUb8CFB3eCDCt4/edit?usp=sharing "Git Intro Presentation") we covered in class
 
 ## Instructions
-1. Fork this repo and clone it down to your machine.
-1. Clone the forked repository to your laptop in your repos directory
+1. Fork this repo.
+1. Clone the forked repository to your laptop in your repos directory.
 1. Change the colour of the welcome title from black to blue. Hint: check the style tag (CSS)!
 1. Let's tell Git about this change: Add the file & then commit with a meaningful message.
 1. Our repo has been updated! Let's share the update: Push the latest back to GitHub.
